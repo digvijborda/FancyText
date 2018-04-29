@@ -1,4 +1,3 @@
-
 # pyfont
 
 --------------------------------------------------------------------------
@@ -25,7 +24,25 @@ This module is completely open-source and i would appreciate any ideas for the f
 # Usage:
 1) Importing - from pyfont import pyfont 
 2) Converting text into copy/paste fonts - pyfont.pyfont.convert(“TEXT”, “FONT_TYPE”) 
+3) Help - pyfont.pyfont.help("cmd") (By default the "cmd" is "all")
+4) List font types - pyfont.pyfont.fonttypes()
 3) COMING-SOON - Converting text into copy/paste ascii art - pyfont.pyfont.convert_ascii(“TEXT”, “ASCII_FONT_TYPE”)
+
+--------------------------------------------------------------------------
+
+# Font types:
+NOTE: SOME FONTS MAY NOT BE VISIBLE IN THE COMMAND PROMPT AND MAY BE SQUARES, IGNORE THIS AS THEY ARE ALL THE RIGHT FONTS.
+"bubble" - ⓐⓑⓒ
+"doublestruck" - 𝕒𝕓𝕔
+"boldscript" - 𝓪𝓫𝓬
+"sorcerer" - ǟɮƈ
+"strikethrough" - a̶b̶c̶
+"currency" - ₳฿₵
+"magic" - ᎪbᏟ
+"fraktur" - 𝔞𝔟𝔠
+"antrophobia" - αв¢
+"fairy" - ᏗᏰፈ
+"knight" - Ḁḃḉ
 
 --------------------------------------------------------------------------
 
@@ -39,5 +56,6 @@ Look at the tools file for implementation of pyfont in other applications other 
 
 # Credit:
 Credit for fonts goes to: https://coolsymbol.com/cool-fancy-text-generator.html
+Made by George Leonard
 
 --------------------------------------------------------------------------
