@@ -1,3 +1,4 @@
+
 # pyfont
 
 --------------------------------------------------------------------------
@@ -56,6 +57,7 @@ Look at the tools file for implementation of pyfont in other applications other 
 
 # Credit:
 Credit for fonts goes to: https://coolsymbol.com/cool-fancy-text-generator.html
+
 Made by George Leonard
 
 --------------------------------------------------------------------------
