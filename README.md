@@ -1,4 +1,5 @@
 
+
 # pyfont
 
 --------------------------------------------------------------------------
@@ -33,16 +34,27 @@ This module is completely open-source and i would appreciate any ideas for the f
 
 # Font types:
 NOTE: SOME FONTS MAY NOT BE VISIBLE IN THE COMMAND PROMPT AND MAY BE SQUARES, IGNORE THIS AS THEY ARE ALL THE RIGHT FONTS.
+
 "bubble" - ⓐⓑⓒ
+
 "doublestruck" - 𝕒𝕓𝕔
+
 "boldscript" - 𝓪𝓫𝓬
+
 "sorcerer" - ǟɮƈ
+
 "strikethrough" - a̶b̶c̶
+
 "currency" - ₳฿₵
+
 "magic" - ᎪbᏟ
+
 "fraktur" - 𝔞𝔟𝔠
+
 "antrophobia" - αв¢
+
 "fairy" - ᏗᏰፈ
+
 "knight" - Ḁḃḉ
 
 --------------------------------------------------------------------------
