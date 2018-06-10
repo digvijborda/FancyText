@@ -17,4 +17,4 @@ async def convert(text, fonttype):
     txt = pf.convert(text, fonttype)
     await bot.say(txt)
 
-bot.run("NDM5NDU1MDY1MjQ2NDAwNTIy.DcTZ-w.AQPLSaVztrRhEffOH9rfYSxyevA")
+bot.run("TOKEN")
